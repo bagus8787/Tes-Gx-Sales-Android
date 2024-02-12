@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">GX Sales</string>
+    <string name="title">Title</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_loading_title_dialog">Loading</string>
+    <string name="plan_documents">Plan Documents</string>
+    <string name="form_and_information">Form and Information</string>
+    <string name="label_profil_title_page">Title Page</string>
+
+    <string-array name="spBranchOffice">
+        <item>- Select Branch Office -</item>
+    </string-array>
+
+    <string-array name="spLeadType">
+        <item>- Select Lead Type -</item>
+    </string-array>
+
+    <string-array name="spLeadChannel">
+        <item>- Select Lead Channel -</item>
+    </string-array>
+
+    <string-array name="spLeadMedia">
+        <item>- Select Lead Media -</item>
+    </string-array>
+
+    <string-array name="spLeadSource">
+        <item>- Select Lead Source -</item>
+    </string-array>
+
+    <string-array name="spLeadStatus">
+        <item>- Select Lead Status -</item>
+    </string-array>
+
+    <string-array name="spLeadProbability">
+        <item>- Select Lead Probability -</item>
+    </string-array>
+</resources>

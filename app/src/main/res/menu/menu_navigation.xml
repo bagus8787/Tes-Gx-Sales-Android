@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:checked="true"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/leads"
+        android:icon="@drawable/ic_leads"
+        android:title="Leads" />
+
+    <item
+        android:id="@+id/mid"
+        android:icon="@drawable/drop_down_shadow"
+        android:title="" />
+
+    <item
+        android:id="@+id/shop"
+        android:icon="@drawable/ic_shopping"
+        android:title="Shop" />
+
+    <item
+        android:id="@+id/account"
+        android:icon="@drawable/ic_location"
+        android:title="Account" />
+
+</menu>
